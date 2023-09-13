@@ -1,0 +1,5 @@
+Started with Git
+1. created new Repository in GitHub Account
+2. installed git in local
+3. congif the git with user name and email
+4. started with Git
